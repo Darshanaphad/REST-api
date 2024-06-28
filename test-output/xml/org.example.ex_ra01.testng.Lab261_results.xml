@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/RestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.477">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest1"
+                time="4.391"
+                classname="org.example.ex_ra01.testng.Lab261">
+            </testcase>
+            <testcase
+                name="getRequest2"
+                time="1.086"
+                classname="org.example.ex_ra01.testng.Lab261">
+            </testcase>
+</testsuite>
