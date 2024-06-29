@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="5.927">
+           time="6.806">
     <properties></properties>
 
 
 
             <testcase
                 name="getRequest2"
-                time="1.125"
+                time="1.084"
                 classname="org.example.ex_ra01.testng.Lab261">
             </testcase>
             <testcase
                 name="getRequest1"
-                time="4.802"
+                time="5.722"
                 classname="org.example.ex_ra01.testng.Lab261">
             </testcase>
 </testsuite>
